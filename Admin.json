@@ -11,4 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
+    {
+        "device_id": "23a7b129707cc467",
+        "key": "Jh123",
+        "expirydate": "15-06-2030",
+        "Allowoffline": true
+    }
 ]
